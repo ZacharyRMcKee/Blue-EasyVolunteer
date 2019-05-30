@@ -1,7 +1,9 @@
+before_install:
+  - cd easy-volunteer
+
 language: node_js
 node_js:
   - "node"
-before_install:
-  - cd easy-volunteer
+
  
  
